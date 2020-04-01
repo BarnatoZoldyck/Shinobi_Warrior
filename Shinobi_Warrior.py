@@ -43,7 +43,7 @@ class Program:
         self.health_bar.add(Health(60, 10))
         self.health_bar.add(Health(90, 10))
         
-#         for k in (1,3): 
+    #       for k in (1,3): 
         self.kunais.add(Kunai())
         
         self.game_run()
